@@ -1,0 +1,62 @@
+mpiexec  -n  4 ./proj1
+//// Output log
+The Guess: 1122 1122 1122 1122
+The Secret is: 2326 6679 6294 7459
+Suggested Guess: 9282
+Suggested Guess: 0183
+Suggested Guess: 2720
+Suggested Guess: 0045
+Suggested Guess: 2326
+You win!  It took you 6 guesses. this took 4 seconds for 2326
+Suggested Guess: 0213
+Suggested Guess: 9817
+Suggested Guess: 4485
+Suggested Guess: 4676
+Suggested Guess: 6294
+You win!  It took you 6 guesses. this took 10 seconds for 6294
+Suggested Guess: 9876
+Suggested Guess: 9876
+Suggested Guess: 6677
+Suggested Guess: 6679
+You win!  It took you 4 guesses. this took 16 seconds for 6679
+Suggested Guess: 0687
+Suggested Guess: 8559
+Suggested Guess: 3456
+Suggested Guess: 7459
+You win!  It took you 6 guesses. this took 19 seconds for 7459
+----------------------------------------------
+The Guess: 1122 1122 1122 1122
+The Secret is: 5700 0290 1288 6325
+You win!  It took you 5 guesses. this took 5 seconds for 1288
+You win!  It took you 7 guesses. this took 10 seconds for 0290
+You win!  It took you 6 guesses. this took 10 seconds for 6325
+You win!  It took you 6 guesses. this took 20 seconds for 5700
+//the timer was still the same starting point for all of them
+------------------------
+The Guess: 1122 1122 1122 1122
+The Secret is: 4275 0541 6168 5162
+You win!  It took you 5 guesses. this took 2 seconds for 5162
+You win!  It took you 6 guesses. this took 9 seconds for 0541
+You win!  It took you 7 guesses. this took 10 seconds for 4275
+You win!  It took you 7 guesses. this took 9 seconds for 6168
+------------------
+The Secret is: 6070 5803 8659 6268
+You win!  It took you 7 guesses. this took 9 seconds for 6268
+You win!  It took you 7 guesses. this took 15 seconds for 8659
+You win!  It took you 6 guesses. this took 16 seconds for 5803
+You win!  It took you 6 guesses. this took 18 seconds for 6070
+//Ok, it look like it was already in parrelel,
+----------------------
+The Guess: 1122 1122 1122 1122
+The Secret is: 8156 7739 8291 2966
+You win!  It took you 6 guesses. this took 2 seconds for 8291
+You win!  It took you 6 guesses. this took 9 seconds for 2966
+You win!  It took you 5 guesses. this took 10 seconds for 8156
+You win!  It took you 7 guesses. this took 19 seconds for 7739
+----------------------
+The Guess: 1122 1122 1122 1122
+The Secret is: 4014 6634 0213 8273
+You win!  It took you 4 guesses. this took 2 seconds for 0213
+You win!  It took you 7 guesses. this took 8 seconds for 8273
+You win!  It took you 7 guesses. this took 11 seconds for 4014
+You win!  It took you 6 guesses. this took 19 seconds for 6634
